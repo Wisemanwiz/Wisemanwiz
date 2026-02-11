@@ -1,19 +1,27 @@
-Hi 👋 My name is Wisdom Eke
-===========================
+Hi 👋 I'm Wisdom Eke
 
-Junior QA Automation Engineer
------------------------------
+BSc Computer Science Student  
+Python Developer focused on Security Automation & Linux Systems
 
+I build Python-based automation tools and practice SOC workflows
+using Linux environments and SIEM fundamentals.
 
-with a strong focus on Python based test automation.
+Core Focus:
+- Python scripting & automation
+- Linux command line & log analysis
+- Security monitoring fundamentals
+- SOC simulations & lab environments
 
-Currently building hands-on projects using Pytest and Playwright to automate real testing workflows.
+Current Projects:
+- File Automation Tool
+- Log Analysis & Failed Login Detector
+- Security Lab Documentation
 
-I’m developing a solid foundation in test logic, clean code, and maintainable automation, while gaining practical exposure to Linux and SQL for working with real systems.
-
-My goal is to grow into a reliable automation engineer by learning deeply, practicing consistently, and writing tests that add real value.
-
-I enjoy breaking problems into clear workflows and improving software quality through automation.
+Learning Roadmap:
+- Advanced Linux
+- Bash scripting
+- Docker fundamentals
+- DevOps tooling basics
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [wisdom.eke@icloud.com](mailto:wisdom.eke@icloud.com)
