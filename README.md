@@ -1,16 +1,15 @@
 ## Hi 👋, I'm Wisdom Eke
 
 🎓 BSc Computer Science Student  
-🛡️ Junior SOC Analyst | SIEM | Log Analysis | Incident Response  
+🛡️ SOC Analyst (Hands-on Lab Experience) | SIEM | Log Analysis | Incident Response  
 
-I work with SIEM tools, analyze logs, and simulate real-world security incidents to develop practical experience in Security Operations. My focus is on detection, investigation, and response within Linux-based environments.
-
+I designed and operate simulated SOC environments using Splunk to ingest and analyze logs, develop detection queries, and investigate security events within Linux-based systems.
 ---
 
 ### 🔍 Core Skills
 
 - Log analysis (authentication logs, system logs)  
-- SIEM fundamentals (Splunk, detection queries using SPL)  
+- SIEM: Splunk (log ingestion, SPL queries, detection)  
 - Security monitoring & alert investigation  
 - Incident triage & basic response workflows  
 - Linux system administration  
@@ -21,32 +20,32 @@ I work with SIEM tools, analyze logs, and simulate real-world security incidents
 ### 🧪 Featured Projects
 
 #### 🔹 SOC L1 SIEM Lab (Splunk)
-Simulated a SOC environment using Splunk to monitor, detect, and investigate security events.
+Built a simulated SOC environment to monitor and investigate security events.
 
 **Key Work:**
 - Ingested and analyzed authentication logs  
 - Developed detection queries using SPL  
-- Identified suspicious login patterns  
-- Investigated potential security incidents  
+- Detected suspicious login activity  
+- Investigated security events  
 - Mapped detections to MITRE ATT&CK  
 
 ---
 
 #### 🔹 Log Analysis & Failed Login Detection
-Analyzed system logs to detect failed login attempts and potential brute-force activity.
+Analyzed system logs to detect brute-force and unauthorized access attempts.
 
 **Key Work:**
 - Parsed authentication logs  
 - Identified repeated failed login attempts  
-- Highlighted suspicious activity patterns  
+- Flagged suspicious behavior patterns  
 
 ---
 
 #### 🔹 Incident Response Simulation (Malware Scenario)
-Simulated response to a malware-related incident in a SOC environment.
+Performed analysis and response for a simulated malware incident.
 
 **Key Work:**
-- Reviewed threat intelligence (CISA alerts, CVE reports)  
+- Reviewed threat intelligence (CISA, CVE reports)  
 - Analyzed affected systems and logs  
 - Documented findings and response actions  
 - Created incident communication report  
@@ -54,43 +53,38 @@ Simulated response to a malware-related incident in a SOC environment.
 ---
 
 #### 🔹 Raspberry Pi Router Setup (Networking Lab)
-Configured a Raspberry Pi as a router to understand network traffic and system behavior.
+Configured a Raspberry Pi as a router to understand network traffic flow.
 
 **Key Work:**
 - Enabled IP forwarding and routing  
-- Configured network interfaces (eth0, wlan0)  
-- Applied firewall rules and persistence  
-- Strengthened Linux and networking skills  
+- Configured network interfaces  
+- Applied firewall rules  
+- Strengthened Linux and networking knowledge  
 
 ---
 
 #### 🔹 Python File Automation Tool
-Developed automation scripts to improve file organization and handling.
-
-**Key Work:**
-- Automated file categorization  
-- Implemented backup handling  
-- Improved scripting and efficiency  
+Developed scripts to automate file organization tasks.
 
 ---
 
 ### 🧠 Currently Developing
 
-- SIEM tools (Splunk, ELK Stack)  
+- SIEM (Splunk, ELK Stack)  
 - Threat detection & alert tuning  
-- Incident response processes  
+- Incident response workflows  
 - MITRE ATT&CK framework  
-- Advanced Linux for security operations  
+- Advanced Linux  
 
 ---
 
 ### 🎯 Focus
 
-Security monitoring, threat detection, and incident response within a SOC environment.
+Security monitoring, threat detection, and incident investigation in SOC environments.
 
 ---
 
 ### 📫 Connect With Me
 
 - GitHub: https://github.com/Wisemanwiz  
-- LinkedIn: (add your link)
+- LinkedIn: www.linkedin.com/in/wisdom-oke-eke
