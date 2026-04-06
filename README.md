@@ -1,18 +1,20 @@
-## Hi 👋, I'm Wisdom Eke
+## Hi 👋, I'm Wisdom Eke  
 
 🎓 BSc Computer Science Student  
-🛡️ SOC Analyst (Hands-on Lab Experience) | SIEM | Log Analysis | Incident Response  
+🛡️ SOC Analyst (Hands-on Lab Experience) | SIEM | Detection Engineering | Incident Response  
 
-I design and operate simulated SOC environments using Splunk to ingest and analyze logs, develop detection queries, and investigate security events within Linux-based systems.
+I design and operate a **fully simulated SOC Level 1 environment** using Splunk, replicating real-world security operations workflows — from log ingestion to alert triage, investigation, and incident response within Linux-based systems.
 
 ---
 
 ### 🔍 Core Skills
 
-- Log analysis (authentication logs, system logs)  
-- SIEM: Splunk (log ingestion, SPL queries, detection development)  
-- Security monitoring & alert investigation  
-- Incident triage & basic response workflows  
+- Log collection, parsing, and normalization (Linux auth/system logs)  
+- SIEM: Splunk (log ingestion, SPL queries, alert configuration)  
+- Detection engineering (use-case development & MITRE ATT&CK mapping)  
+- Security monitoring & alert triage  
+- Incident investigation & timeline analysis  
+- Basic incident response (containment & remediation actions)  
 - Linux system administration  
 - Networking fundamentals (TCP/IP, ports, protocols)  
 
@@ -20,72 +22,83 @@ I design and operate simulated SOC environments using Splunk to ingest and analy
 
 ### 🧪 Featured Projects
 
-#### 🔹 SOC L1 SIEM Lab (Splunk)
-Designed and implemented a simulated SOC environment for monitoring and investigating security events.
+#### 🔹 SOC L1 SIEM Lab (Full SOC Simulation)
+Designed and implemented a **realistic SOC Level 1 workflow simulation** using Splunk.
+
+**Scope:**
+- Centralized log ingestion from Linux systems  
+- Detection engineering using SPL queries  
+- Alert generation with severity-based use cases  
+- Simulated attacker activity for realistic alert triggering  
+- End-to-end alert triage, investigation, and response  
 
 **Key Work:**
-- Ingested and analyzed authentication logs  
-- Developed detection queries using SPL  
-- Identified suspicious login activity  
-- Investigated security events  
-- Mapped detections to MITRE ATT&CK framework  
+- Ingested and normalized authentication logs (`/var/log/auth.log`)  
+- Developed multiple detection rules:
+  - Brute-force login attempts  
+  - Successful login after failed attempts  
+  - Privilege escalation (sudo activity)  
+  - Suspicious user behavior  
+- Configured alerts with thresholds and severity levels  
+- Simulated attacks (SSH brute force, privilege escalation, user activity)  
+- Performed alert triage and classified true/false positives  
+- Investigated events using log correlation and timeline analysis  
+- Documented incidents with clear reports and response actions  
+- Mapped detections to MITRE ATT&CK techniques  
 
 ---
 
-#### 🔹 Log Analysis & Failed Login Detection
-Analyzed system logs to detect brute-force and unauthorized access attempts.
+#### 🔹 Log Analysis & Threat Detection
+Performed structured log analysis to detect unauthorized access and abnormal behavior.
 
 **Key Work:**
-- Parsed authentication logs  
-- Identified repeated failed login attempts  
-- Flagged suspicious activity patterns  
+- Parsed and analyzed authentication logs  
+- Identified brute-force attack patterns  
+- Detected suspicious login behavior  
+- Built SPL queries for detection use cases  
 
 ---
 
 #### 🔹 Incident Response Simulation (Malware Scenario)
-Performed analysis and response for a simulated malware incident.
+Simulated a real-world incident response process from detection to reporting.
 
 **Key Work:**
-- Reviewed threat intelligence (CISA alerts, CVE reports)  
-- Analyzed affected systems and logs  
-- Documented findings and response actions  
-- Created incident communication reports  
+- Analyzed logs and system activity for indicators of compromise  
+- Correlated events to identify attack behavior  
+- Documented investigation timeline and findings  
+- Produced incident report with response recommendations  
 
 ---
 
 #### 🔹 Raspberry Pi Router Setup (Networking Lab)
-Configured a Raspberry Pi as a router to understand network traffic flow and system behavior.
+Built and configured a router to understand network traffic and system behavior.
 
 **Key Work:**
-- Enabled IP forwarding and routing  
-- Configured network interfaces (eth0, wlan0)  
-- Applied firewall rules and persistence  
-- Strengthened Linux and networking fundamentals  
+- Configured routing and IP forwarding  
+- Applied firewall rules  
+- Analyzed traffic flow and network behavior  
 
 ---
 
-#### 🔹 Python File Automation Tool
-Developed scripts to automate file organization and improve workflow efficiency.
+#### 🔹 Python Automation Tool
+Developed scripts to automate file management and improve operational efficiency.
 
 ---
 
 ### 🧠 Currently Developing
 
-- SIEM: Splunk & ELK Stack  
-- Threat detection & alert tuning  
-- Incident response workflows  
-- MITRE ATT&CK framework  
-- Advanced Linux for security operations  
+- Advanced detection engineering & alert tuning  
+- Threat hunting techniques  
+- SIEM expansion (ELK Stack)  
+- SOC automation & workflow optimization  
+- Docker-based SOC lab deployment  
 
 ---
 
 ### 🎯 Focus
 
-Security monitoring, threat detection, and incident investigation within SOC environments.
-
----
-
-### 📫 Connect With Me
-
-- GitHub: https://github.com/Wisemanwiz  
-- LinkedIn: https://www.linkedin.com/in/wisdom-oke-eke
+Building production-ready skills in:
+- Security monitoring  
+- Threat detection  
+- Alert triage & investigation  
+- Incident response within SOC environments  
