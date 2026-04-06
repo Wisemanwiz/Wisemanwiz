@@ -3,7 +3,7 @@
 🎓 BSc Computer Science Student  
 🛡️ SOC Analyst (Hands-on Lab Experience) | SIEM | Detection Engineering | Incident Response  
 
-I design and operate a **fully simulated SOC Level 1 environment** using Splunk, replicating real-world security operations workflows — from log ingestion to alert triage, investigation, and incident response within Linux-based systems.
+I design and operate a **fully simulated SOC Level 1 environment** using Splunk, replicating real world security operations workflows from log ingestion to alert triage, investigation, and incident response within Linux-based systems.
 
 ---
 
@@ -11,7 +11,7 @@ I design and operate a **fully simulated SOC Level 1 environment** using Splunk,
 
 - Log collection, parsing, and normalization (Linux auth/system logs)  
 - SIEM: Splunk (log ingestion, SPL queries, alert configuration)  
-- Detection engineering (use-case development & MITRE ATT&CK mapping)  
+- Detection engineering (use case development & MITRE ATT&CK mapping)  
 - Security monitoring & alert triage  
 - Incident investigation & timeline analysis  
 - Basic incident response (containment & remediation actions)  
@@ -53,14 +53,14 @@ Performed structured log analysis to detect unauthorized access and abnormal beh
 
 **Key Work:**
 - Parsed and analyzed authentication logs  
-- Identified brute-force attack patterns  
+- Identified brute force attack patterns  
 - Detected suspicious login behavior  
 - Built SPL queries for detection use cases  
 
 ---
 
 #### 🔹 Incident Response Simulation (Malware Scenario)
-Simulated a real-world incident response process from detection to reporting.
+Simulated a real world incident response process from detection to reporting.
 
 **Key Work:**
 - Analyzed logs and system activity for indicators of compromise  
@@ -91,7 +91,7 @@ Developed scripts to automate file management and improve operational efficiency
 - Threat hunting techniques  
 - SIEM expansion (ELK Stack)  
 - SOC automation & workflow optimization  
-- Docker-based SOC lab deployment  
+- Docker based SOC lab deployment  
 
 ---
 
