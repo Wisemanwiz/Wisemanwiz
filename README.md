@@ -97,7 +97,7 @@ Developed scripts to automate file management and improve operational efficiency
 
 ### 🎯 Focus
 
-Building production-ready skills in:
+Building production ready skills in:
 - Security monitoring  
 - Threat detection  
 - Alert triage & investigation  
